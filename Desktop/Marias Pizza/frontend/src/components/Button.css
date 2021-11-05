@@ -1,0 +1,11 @@
+/* Style for the order online button*/
+.btn-brand{
+    font-family: 'Lato', sans-serif;
+      font-weight: 400;
+      font-size: 20px;
+    color: white;
+    background-color: brown;
+    border-color: none;
+    margin-left: 80px;
+       
+}
