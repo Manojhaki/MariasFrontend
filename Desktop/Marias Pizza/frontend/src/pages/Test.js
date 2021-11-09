@@ -17,7 +17,7 @@ export default function Test() {
 
     return (
         <div>
-            <h1>Testinggggg</h1>
+            <h1>Testingggsg</h1>
 
         </div>
     );
