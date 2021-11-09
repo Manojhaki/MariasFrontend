@@ -11,7 +11,7 @@ export default function Test() {
             setPost(response.data);
         });
     }, []);
-    console.log("First test", post);
+    console.log("First tesst", post);
 
 
 
